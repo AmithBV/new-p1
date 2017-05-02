@@ -20,7 +20,7 @@ public class Anagram {
 		
 		
 	}
-//	kjaghdhaskj
+//	kjaghdhaskjas
 	
 	public  static String toLow(String s1)
 	{
